@@ -1,7 +1,7 @@
 // scripts.js
 
 var a = 0,
-	b = 0,
+	b = 10,
 	value = (a * a) + (2 * a * b) - (b * b);
 
 console.log('wynik = ' + value);
