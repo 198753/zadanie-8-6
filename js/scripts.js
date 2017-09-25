@@ -1,6 +1,6 @@
 // scripts.js
 
-var a = 0,
+var a = 7,
 	b = 10,
 	value = (a * a) + (2 * a * b) - (b * b);
 
