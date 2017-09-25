@@ -7,9 +7,9 @@ var a = 7,
 console.log('wynik = ' + value);
 
 if (value > 0) {
-	alert('wynik jest dodatni');
+	console.log('wynik jest dodatni');
 } else if (value < 0) {
-	alert('wynik jest ujemny');
+	console.log('wynik jest ujemny');
 } else {
 	alert('wynik jest równy zero');
 }
